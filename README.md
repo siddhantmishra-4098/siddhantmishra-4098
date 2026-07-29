@@ -139,6 +139,13 @@ A graph-theory exercise in **R** using `igraph`: builds directed/undirected netw
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![igraph](https://img.shields.io/badge/igraph-network--analysis-276DC3?style=flat-square)
 
+#### [Funnel Analysis](https://github.com/siddhantmishra-4098/funnel_analysis)
+one repository with still on work committed content yet — kept here for completeness rather than left undocumented.
+
+<div align="center">
+<img src="https://media.giphy.com/media/9Sv0l6RwrfS6om8fKB/giphy.gif" width="260" alt="Family Guy - AniDom/FOX"/>
+<br><sub>me, explaining why one of my repos is still empty</sub>
+</div>
 ---
 
 ## 🧠 Computer Vision & Deep Learning
@@ -271,13 +278,7 @@ A **C++** implementation of the Splitwise debt-simplification algorithm: nets ev
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
-#### CN & portfolio
-Two early/placeholder repositories with no committed content yet — kept here for completeness rather than left undocumented.
 
-<div align="center">
-<img src="https://media.giphy.com/media/9Sv0l6RwrfS6om8fKB/giphy.gif" width="260" alt="Family Guy - AniDom/FOX"/>
-<br><sub>me, explaining why two of my repos are still empty</sub>
-</div>
 
 ---
 
