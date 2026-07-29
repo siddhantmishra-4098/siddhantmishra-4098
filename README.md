@@ -184,6 +184,11 @@ A vehicle damage segmentation app built on a **YOLOv8** instance-segmentation mo
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
+<div align="center">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHAyYnhoNXgzejF0eDcwcXB6MjdsZnI3eDBrdmx2ZWF6dGIxdDFjcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4aQrH0ek5QAIo/giphy.gif" width="280"/>
+<br><sub>YOLOv8 finding every scratch you were hoping it'd miss not my the power of all spark(transformers lore) but basic linear models stacked upon each other with a hint of activations.</sub>
+</div>
+
 #### [Tire-And-Damage](https://github.com/siddhantmishra-4098/Tire-And-Damage)
 Sibling project to DamageDetection, applying the same **YOLOv8** segmentation + Streamlit pipeline specifically to tire defects — identifying punctures, cuts, cracks, bulges, and uneven wear at pixel level.
 
