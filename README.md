@@ -303,6 +303,12 @@ A **C++** implementation of the Splitwise debt-simplification algorithm: nets ev
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
+#### Overall Profile
+
+<div align="center">
+<img src="[https://media.giphy.com/media/pMujWgoqyPxTRHgFKG/giphy.gif](https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdranYzZWx6aWluOTZpbzFidXNyMHV2d2lqZ3VzYTRmNTJtdTRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9mqdqwZTuGJ6tbciA/giphy.gif)" width="260" alt="Invincible - Amazon Prime Video"/>
+<br><sub>segmentation masks: also a superpower</sub>
+</div>
 
 
 ---
