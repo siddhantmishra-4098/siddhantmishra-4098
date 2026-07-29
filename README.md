@@ -125,7 +125,8 @@ A pip-installable Python package (`statistical_tests`) that implements ANOVA, Ch
 A simulation-based inference (SBI) project implementing the "double responding" model of speeded decision-making from Evans et al. (2020, *Cognitive Psychology*). Uses **BayesFlow 2.0** for amortized Bayesian inference on a **Keras 3 / JAX**-backed neural posterior estimator, fully containerized with Docker + JupyterLab for reproducible training and anal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?slogoColor=white)
-![BayesFlow](https://img.shields.io/badge/BayesFlow-si001D?style=flat-square)                                ![Keras]/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![BayesFlow](https://img.shields.io/badge/BayesFlow-si001D?style=flat-square)                                
+![Keras]/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-Google-6A5ACD?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?slogoColor=white)
 
