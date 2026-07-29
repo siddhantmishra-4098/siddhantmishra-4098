@@ -106,6 +106,19 @@ Survival analysis on the classic **CDNow** BTYD dataset, built on a bronze → s
 <br><sub>when the Weibull AFT model finally converges</sub>
 </div>
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+#### [double-response-sbi_group17](https://github.com/avi-0106/double-response-sbi_group17) — *collaborator*
+A simulation-based inference (SBI) project implementing the "double responding" model of speeded decision-making from Evans et al. (2020, *Cognitive Psychology*). Uses **BayesFlow 2.0** for amortized Bayesian inference on a **Keras 3 / JAX**-backed neural posterior estimator, fully containerized with Docker + JupyterLab for reproducible training and analysis.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![BayesFlow](https://img.shields.io/badge/BayesFlow-simulation--based--inference-B2001D?style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![JAX](https://img.shields.io/badge/JAX-Google-6A5ACD?style=flat-square)
+![Docker](https://img.shields.io/badge/Docker-2496ED?slogoColor=white)
 ---
 
 ## 📊 Applied Data Science, Analytics & Statistics
