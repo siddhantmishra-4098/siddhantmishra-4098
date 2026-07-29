@@ -2,7 +2,7 @@
 
 # Hi, I'm Siddhant Mishra 👋
 
-### Data Scientist & ML Engineer — turning messy data into models, dashboards, and decisions.
+### Data Scientist & ML Engineer - turning messy data into models, dashboards, and decisions.
 
 I build churn/survival models, computer-vision apps, and BI dashboards, and occasionally publish the results (IEEE Xplore, 2024).
 
@@ -71,7 +71,7 @@ I build churn/survival models, computer-vision apps, and BI dashboards, and occa
 
 ---
 
-## 🔁 Data Science — Churn & Survival Analysis
+## 🔁 Data Science - Churn & Survival Analysis
 
 #### [churn_agent](https://github.com/siddhantmishra-4098/churn_agent)
 An agentic churn-prediction system built with **LangGraph**, orchestrating a Random Forest classifier and a Weibull AFT survival model behind a **Gradio** UI. An LLM (`Meta-Llama-3.1-8B-Instruct` via the Hugging Face Inference API) routes free-text queries to either a batch "predict churn from CSV" flow or a per-customer lookup, then explains the result in plain English. Deployed on Hugging Face Spaces.
@@ -85,7 +85,7 @@ An agentic churn-prediction system built with **LangGraph**, orchestrating a Ran
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
 #### [Predicting-Customer-Lifetime-Churn-Risk-in-Retail](https://github.com/siddhantmishra-4098/Predicting-Customer-Lifetime-Churn-Risk-in-Retail)
-An end-to-end churn-scoring project on the UCI Online Retail II dataset (776k+ cleaned transactions), combining **Kaplan-Meier / Weibull AFT** survival analysis with a Random Forest classifier trained on RFM features. Every modeling decision is documented — from choosing a 90-day churn window to swapping Cox PH for Weibull AFT after it failed a proportional-hazards test — ending in a ranked, business-ready retention score.
+An end-to-end churn-scoring project on the UCI Online Retail II dataset (776k+ cleaned transactions), combining **Kaplan-Meier / Weibull AFT** survival analysis with a Random Forest classifier trained on RFM features. Every modeling decision is documented - from choosing a 90-day churn window to swapping Cox PH for Weibull AFT after it failed a proportional-hazards test - ending in a ranked, business-ready retention score.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
@@ -95,7 +95,7 @@ An end-to-end churn-scoring project on the UCI Online Retail II dataset (776k+ c
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 #### [CdNow-churn-survival-analysis](https://github.com/siddhantmishra-4098/CdNow-churn-survival-analysis)
-Survival analysis on the classic **CDNow** BTYD dataset, built on a bronze → silver → gold **medallion pipeline in SQL Server** (T-SQL DDL + load scripts) feeding a Kaplan-Meier + Cox Proportional Hazards analysis in Python's `lifelines`. Finds that repeat-purchase count — not spend — drives retention (hazard ratio 0.385), with a model C-index of 0.926.
+Survival analysis on the classic **CDNow** BTYD dataset, built on a bronze → silver → gold **medallion pipeline in SQL Server** (T-SQL DDL + load scripts) feeding a Kaplan-Meier + Cox Proportional Hazards analysis in Python's `lifelines`. Finds that repeat-purchase count - not spend - drives retention (hazard ratio 0.385), with a model C-index of 0.926.
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -114,15 +114,15 @@ Survival analysis on the classic **CDNow** BTYD dataset, built on a bronze → s
 
 ## 🤝 Collaborations & Group Projects
 
-#### [statistical_toolkit](https://github.com/avi-0106/statistical_toolkit) — *collaborator*
-A pip-installable Python package (`statistical_tests`) that implements ANOVA, Chi-Squared, Z-Test, and T-Test as classes — each with a `run_test()` method returning test statistics/p-values and a `plot_test()` method for instant visualization of the rejection region. Built to make classical hypothesis testing accessible without boilerplate.
+#### [statistical_toolkit](https://github.com/avi-0106/statistical_toolkit) - *collaborator*
+A pip-installable Python package (`statistical_tests`) that implements ANOVA, Chi-Squared, Z-Test, and T-Test as classes - each with a `run_test()` method returning test statistics/p-values and a `plot_test()` method for instant visualization of the rejection region. Built to make classical hypothesis testing accessible without boilerplate.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-#### [double-response-sbi_group17](https://github.com/avi-0106/double-response-sbi_group17) — *collaborator*
+#### [double-response-sbi_group17](https://github.com/avi-0106/double-response-sbi_group17) - *collaborator*
 A simulation-based inference (SBI) project implementing the "double responding" model of speeded decision-making from Evans et al. (2020, *Cognitive Psychology*). Uses **BayesFlow 2.0** for amortized Bayesian inference on a **Keras 3 / JAX**-backed neural posterior estimator, fully containerized with Docker + JupyterLab for reproducible training and anal
 
 ![Python](https://img.shields.io/badge/Python-3776AB?slogoColor=white)
@@ -150,7 +150,7 @@ A marketing funnel and cohort analysis on Google's public **GA4 e-commerce** sam
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 
 #### [Recursion-](https://github.com/siddhantmishra-4098/Recursion-)
-A **PySpark MLlib** walkthrough that loads the MNIST handwritten-digit dataset (60k rows × 785 columns) into a Spark DataFrame and builds an image-classification pipeline — covering distributed data loading, schema inference, and model training with Spark's ML library.
+A **PySpark MLlib** walkthrough that loads the MNIST handwritten-digit dataset (60k rows × 785 columns) into a Spark DataFrame and builds an image-classification pipeline - covering distributed data loading, schema inference, and model training with Spark's ML library.
 
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat-square&logo=apachespark&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
@@ -165,7 +165,7 @@ A graph-theory exercise in **R** using `igraph`: builds directed/undirected netw
 ---
 
 #### [Funnel Analysis](https://github.com/siddhantmishra-4098/funnel_analysis)
-one repository with still on work committed content yet — kept here for completeness rather than left undocumented.
+one repository with still on work committed content yet - kept here for completeness rather than left undocumented.
 
 <div align="center">
 <img src="https://media.giphy.com/media/9Sv0l6RwrfS6om8fKB/giphy.gif" width="260" alt="Family Guy - AniDom/FOX"/>
@@ -176,7 +176,7 @@ one repository with still on work committed content yet — kept here for comple
 ## 🧠 Computer Vision & Deep Learning
 
 #### [DamageDetection](https://github.com/siddhantmishra-4098/DamageDetection)
-A vehicle damage segmentation app built on a **YOLOv8** instance-segmentation model, wrapped in a **Streamlit** UI with an adjustable confidence-threshold slider and OpenCV-based frame handling. Based on IEEE Xplore-published research — *"Vehicle Damage Identification using Deep Learning Techniques,"* April 2024 — combining YOLOv8 with ResNet-50 classification. [Live demo →](https://damagedetection.streamlit.app/)
+A vehicle damage segmentation app built on a **YOLOv8** instance-segmentation model, wrapped in a **Streamlit** UI with an adjustable confidence-threshold slider and OpenCV-based frame handling. Based on IEEE Xplore-published research - *"Vehicle Damage Identification using Deep Learning Techniques,"* April 2024 - combining YOLOv8 with ResNet-50 classification. [Live demo →](https://damagedetection.streamlit.app/)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/Ultralytics%20YOLOv8-111F68?style=flat-square)
@@ -190,7 +190,7 @@ A vehicle damage segmentation app built on a **YOLOv8** instance-segmentation mo
 </div>
 
 #### [Tire-And-Damage](https://github.com/siddhantmishra-4098/Tire-And-Damage)
-Sibling project to DamageDetection, applying the same **YOLOv8** segmentation + Streamlit pipeline specifically to tire defects — identifying punctures, cuts, cracks, bulges, and uneven wear at pixel level.
+Sibling project to DamageDetection, applying the same **YOLOv8** segmentation + Streamlit pipeline specifically to tire defects - identifying punctures, cuts, cracks, bulges, and uneven wear at pixel level.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/Ultralytics%20YOLOv8-111F68?style=flat-square)
@@ -238,7 +238,7 @@ A doodle-to-photorealistic-image generator built on **SPADE** semantic image syn
 ## 📈 Dashboards & BI / Data Viz
 
 #### [Eshopp-Dashbord](https://github.com/siddhantmishra-4098/Eshopp-Dashbord)
-A 9-page **Power BI** report analyzing e-commerce sales, customers, web sessions, and geography across a star-schema data model (7 tables), with custom **DAX** measures for revenue, a session-quality gauge, and time intelligence — plus a CEO summary page with a full date-range and region slicer.
+A 9-page **Power BI** report analyzing e-commerce sales, customers, web sessions, and geography across a star-schema data model (7 tables), with custom **DAX** measures for revenue, a session-quality gauge, and time intelligence - plus a CEO summary page with a full date-range and region slicer.
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-F2C811?style=flat-square)
@@ -262,7 +262,7 @@ A **Streamlit** dashboard over an India road-accidents dataset with state/city/f
 ## 🌐 Web, Systems & Misc Projects
 
 #### [web-monitor-bot](https://github.com/siddhantmishra-4098/web-monitor-bot)
-A **GitHub Actions**-scheduled bot that scrapes a housing-listings page (`BeautifulSoup`), hashes its content, and emails a notification via Gmail SMTP whenever the page changes — a simple automated availability watcher.
+A **GitHub Actions**-scheduled bot that scrapes a housing-listings page (`BeautifulSoup`), hashes its content, and emails a notification via Gmail SMTP whenever the page changes - a simple automated availability watcher.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square)
@@ -277,7 +277,7 @@ A personal resume/portfolio site built on the "MyResume" Bootstrap template, cus
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
 
 #### [Seamless-Auto-Solutions-ResNet-50-Deep-Learning-Integration-for-Damage-Detection-and-Repair-Streaml](https://github.com/siddhantmishra-4098/Seamless-Auto-Solutions-ResNet-50-Deep-Learning-Integration-for-Damage-Detection-and-Repair-Streaml)
-A Bootstrap-template marketing/landing page for an auto damage-and-repair concept tied to the DamageDetection research — static HTML/CSS/JS with a PHP contact form.
+A Bootstrap-template marketing/landing page for an auto damage-and-repair concept tied to the DamageDetection research - static HTML/CSS/JS with a PHP contact form.
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -292,13 +292,13 @@ A front-end-only YouTube homepage clone (header, sidebar, video grid) built with
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 #### [blackJack](https://github.com/siddhantmishra-4098/blackJack)
-A browser Blackjack game (Scrimba course project) built with vanilla JavaScript and Vite — random card draw, running sum, bust/blackjack detection.
+A browser Blackjack game (Scrimba course project) built with vanilla JavaScript and Vite - random card draw, running sum, bust/blackjack detection.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
 #### [passangerCount](https://github.com/siddhantmishra-4098/passangerCount)
-A tiny vanilla-JS/Vite tally-counter utility (increment / save / running sum) — another Scrimba course exercise.
+A tiny vanilla-JS/Vite tally-counter utility (increment / save / running sum) - another Scrimba course exercise.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
@@ -310,7 +310,7 @@ A **C++** implementation of the Splitwise debt-simplification algorithm: nets ev
 
 <div align="center">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOWdranYzZWx6aWluOTZpbzFidXNyMHV2d2lqZ3VzYTRmNTJtdTRpZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/A9mqdqwZTuGJ6tbciA/giphy.gif" width="280"/>
-<br><sub>not the best README on GitHub — but hey, it's better than the last one.</sub>
+<br><sub>not the best README on GitHub - but hey, it's better than the last one.</sub>
 </div>
 
 
@@ -318,6 +318,6 @@ A **C++** implementation of the Splitwise debt-simplification algorithm: nets ev
 
 <div align="center">
 
-*Thanks for scrolling this far — feel free to poke around the repos above.* ⭐
+*Thanks for scrolling this far - feel free to poke around the repos above.* ⭐
 
 </div>
