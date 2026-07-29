@@ -111,15 +111,23 @@ Survival analysis on the classic **CDNow** BTYD dataset, built on a bronze → s
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
-#### [double-response-sbi_group17](https://github.com/avi-0106/double-response-sbi_group17) — *collaborator*
-A simulation-based inference (SBI) project implementing the "double responding" model of speeded decision-making from Evans et al. (2020, *Cognitive Psychology*). Uses **BayesFlow 2.0** for amortized Bayesian inference on a **Keras 3 / JAX**-backed neural posterior estimator, fully containerized with Docker + JupyterLab for reproducible training and analysis.
+## 🤝 Collaborations & Group Projects
+
+#### [statistical_toolkit](https://github.com/avi-0106/statistical_toolkit) — *collaborator*
+A pip-installable Python package (`statistical_tests`) that implements ANOVA, Chi-Squared, Z-Test, and T-Test as classes — each with a `run_test()` method returning test statistics/p-values and a `plot_test()` method for instant visualization of the rejection region. Built to make classical hypothesis testing accessible without boilerplate.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![BayesFlow](https://img.shields.io/badge/BayesFlow-simulation--based--inference-B2001D?style=flat-square)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
+
+#### [double-response-sbi_group17](https://github.com/avi-0106/double-response-sbi_group17) — *collaborator*
+A simulation-based inference (SBI) project implementing the "double responding" model of speeded decision-making from Evans et al. (2020, *Cognitive Psychology*). Uses **BayesFlow 2.0** for amortized Bayesian inference on a **Keras 3 / JAX**-backed neural posterior estimator, fully containerized with Docker + JupyterLab for reproducible training and anal
+
+![Python](https://img.shields.io/badge/Python-3776AB?slogoColor=white)
+![BayesFlow](https://img.shields.io/badge/BayesFlow-si001D?style=flat-square)                                ![Keras]/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-Google-6A5ACD?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?slogoColor=white)
----
 
 ## 📊 Applied Data Science, Analytics & Statistics
 
@@ -151,6 +159,8 @@ A graph-theory exercise in **R** using `igraph`: builds directed/undirected netw
 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![igraph](https://img.shields.io/badge/igraph-network--analysis-276DC3?style=flat-square)
+
+---
 
 #### [Funnel Analysis](https://github.com/siddhantmishra-4098/funnel_analysis)
 one repository with still on work committed content yet — kept here for completeness rather than left undocumented.
