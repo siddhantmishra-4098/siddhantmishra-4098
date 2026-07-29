@@ -127,14 +127,9 @@ A simulation-based inference (SBI) project implementing the "double responding" 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?slogoColor=white)
 ![BayesFlow](https://img.shields.io/badge/BayesFlow-si001D?style=flat-square)                                
-![Keras]/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![JAX](https://img.shields.io/badge/JAX-Google-6A5ACD?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?slogoColor=white)
 
-<div align="center">
-<img src="[https://media.giphy.com/media/FKHZLjnz4c2ly/giphy.gif](https://tenor.com/view/soldando-rick-rick-and-morty-gif-14504207029987091883)" width="260" alt="Pickle Rick - Adult Swim"/>
-<br><sub>when the Weibull AFT model finally converges</sub>
-</div>
 
 ## 📊 Applied Data Science, Analytics & Statistics
 
